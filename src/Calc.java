@@ -3,9 +3,9 @@ public class Calc {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
-		printAdd(2,3);
+		printAdd(5,4);
 		// ★ ここから下を実装 ★
-		printSub(7,4);
+		printSub(10,2);
 	}
 	
 	public static void printAdd(int arg1, int arg2) {
